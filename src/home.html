@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../style/home.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Marvel:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+      rel="stylesheet"
+    />
+    <title>Document</title>
+  </head>
+  <body>
+    <main>
+      <div class="container">
+        <div class="cloud">
+          <img
+            class="img_cloud"
+            src="https://demos.creative-tim.com/paper-kit-react/static/media/clouds.3c700c13.png"
+            alt=""
+          />
+        </div>
+        <div class="cabecaVenon">
+          <img src="../img/venon-branco1.png" alt="" />
+        </div>
+        <div class="sinopse">
+          <img id="logo" src="../img/venonLetreiro.png" alt="" />
+          <div class="center">
+            <button type="button" class="glow-on-hover" onclick="Trailer()">
+              Assitir Trailer
+            </button>
+          </div>
+          <div id="trailer" style="display: none">
+            <iframe
+              src="https://www.youtube.com/embed/DKWyvRD6zN8"
+              autoplay="1"
+              frameborder="0"
+              allow="accelerometer; clipboard-write ;encrypted-media; gyroscope; picture-in-picture ;web-share"
+              allowfullscreen
+              disablePictureInPicture
+            ></iframe>
+          </div>
+          <div class="informacoes">
+            “Venom 3” é um próximo filme de super-herói americano com o
+            personagem Venom da Marvel Comics. <br />O filme está programado
+            para ser lançado nos Estados Unidos em 08 de novembro de 2024.
+          </div>
+        </div>
+        <div class="cabecaVenon2">
+          <img src="../img/venon-branco1.png" alt="" />
+        </div>
+      </div>
+    </main>
+    <script src="../src/home.js"></script>
+  </body>
+</html>
