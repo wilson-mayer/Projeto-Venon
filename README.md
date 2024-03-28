@@ -2,7 +2,7 @@
 
 # Projeto Venom
 
-Este é o projeto Venom, uma landing page desenvolvida como parte do curso Starter Full Stack Web Developer. A landing page apresenta animações interativas e foi desenvolvida em colaboração com os colegas @dioni e @wilsom.
+Este é o projeto Venom, uma landing page desenvolvida como parte do curso Starter Full Stack Web Developer. A landing page apresenta animações interativas e foi desenvolvida em colaboração com os colegas @dioni e @DionataRech.
 
 ## Demonstração do Projeto em Gif
 
@@ -29,7 +29,7 @@ Para visualizar o projeto, siga estas etapas:
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/DionataRech/Projeto-Venon.git
+git clone https://github.com/wilson-mayer/Projeto-Venon.git
 Abra o arquivo index.html em um navegador web.
 Contribuição
 Contribuições são bem-vindas! Se você quiser contribuir com o Projeto Venom, siga estas etapas:
@@ -41,4 +41,4 @@ Envie suas alterações: git push origin minha-contribuicao.
 Abra um pull request para revisão.
 ```
 
-<small>Desenvolvida em conjunto com os colegas @wilson-mayer o e @dioniourique</small>
+<small>Desenvolvida em conjunto com os colegas @DionataRech o e @dioniourique</small>
